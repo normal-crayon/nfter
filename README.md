@@ -10,3 +10,6 @@ To run the Dapp :
 Contracts to be found in src/components/contracts
 Implemented the ERC721 token standard interface with a small modification(using string instead of uint256 to store token ID)
 
+## TODO:
+1. Shift from web3.js to ethers.js
+2. Research paper
